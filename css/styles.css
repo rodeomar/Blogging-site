@@ -1,0 +1,21 @@
+body{
+  background-image: url("https://inthekitch.net/wp-content/uploads/How-to-Roast-Coffee-Beans_final_1.jpg");
+}
+h1{
+  text-align: center;
+  background-color: rgb(216, 76, 76);
+  margin: 0 40%;
+  font-size: 35px;
+  font-family: cursive;
+  font-weight: 5000px;
+  
+}
+.group{
+  background-color: hwb(32 46% 26% / 0.805);
+}
+.read{
+  background-color: rgba(240, 255, 255, 0.731);
+  margin-top: 80px;
+  font-family:fantasy;
+  
+}
